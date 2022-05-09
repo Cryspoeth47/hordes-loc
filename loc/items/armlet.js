@@ -54,7 +54,7 @@ export default [
       nl: 'Stevig leer is zorgvuldig vervaardigd tot fijne armbanden. Op de zijkanten van het leer staat het ambachtsman z’n handtekening: "Markay\'ak".',
       it: 'La pelle che forma questi pregiati bracciali è stata scrupolosamente lavorata. Sul lato della pelle c\'è la firma dell\'artigiano: "Markay\'ak".',
       ro: 'Aceste manșete rezistente au fost confecționate cu grijă din material de piele dură. Pe marginea acesteia este semnătura meșterului: "Markay\'ak".',
-      tr: '',
+      tr: 'İnce deri özenle işlenip kolluk yapılmış. Derinin kenarında işleyen kişinin imzası var: "Markay\'ak".',
       cs: 'Pevná kůže byla pečlivě zpracována do jemných náramků. Na straně kůže je podpis řemeslníka: "Markay\'ak"',
       zh: '堅韌的皮革經過精心製作，製成精美的臂環。皮革的側面是工匠的標誌："Markay\'ak"。'
     }
@@ -93,6 +93,7 @@ export default [
       nl: 'Dit type van ijzeren harnassen werd hevig gebruikt tijdens oorlogen en blijft vuil. De klauwafdrukkenop het metaal lijkt grotendeels oppervlakkig.',
       it: 'Questo tipo di armatura di ferro è stata fortemente utilizzata in guerra ed è rimasta sporca. I segni di graffi sul metallo sembrano essere solo superficiali.',
       ro: 'Acest tip de armură de fier a fost extrem de folosită în război iar astfel a rămas murdară. Urmele de gheare lăsate pe metal par să fie în mare parte superficiale.',
+      tr: 'Bu tip demir zırhlar ağırlıklı olarak savaşlarda kullanılır ve yıpranmış olarak kalır. Metalin üzerindeki pençe izleri genel olarak yüzeysel gözüküyor.'
       cs: 'Tento typ železné zbroje byl hojně používán ve válce a zůstává špinavý. Stopy po drápech na kovu se zdají být většinou povrchní.',
       zh: '這種類型的鐵甲在戰爭中被大量使用，而且仍然很髒。 金屬上的爪痕大多都很淺。'
     }
