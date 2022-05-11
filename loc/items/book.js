@@ -5,7 +5,8 @@ export default [{
     en: 'Perform automatic melee attacks with your weapon.',
     ru: 'Выполняйте автоматические атаки в ближнем бою с помощью оружия.',
     fr: 'Vous effectuez des attaques de mélée automatiques avec votre arme.',
-    zh: '使用武器進行自動近戰攻擊。'
+    zh: '使用武器進行自動近戰攻擊。',
+    tr: 'Silahın ile yakın dövüş saldırıları gerçekleştir.'
   }
 },
 {
@@ -15,7 +16,8 @@ export default [{
     en: 'Slash your enemy, striking with extra force. Heals you for 5% of the damage done.',
     ru: 'Режь врага, нанося удар с дополнительной силой. Исцеляет вас за 5% от нанесенного урона.',
     fr: 'Vous lacérez votre ennemi en frappant avec plus de force. Vous soigne pour 5% des dégats infligés.',
-    zh: '用額外的力量砍向你的敵人，回復5%造成的傷害。'
+    zh: '用額外的力量砍向你的敵人，回復5%造成的傷害。',
+    tr: 'Düşmanını kes, fazladan kuvvet ile saldırır. Verilen hasarın %5\'i ile seni iyileştirir.' 
   }
 },
 {
@@ -25,7 +27,8 @@ export default [{
     en: 'Temporarily increases your block chance, while also healing you when you block.',
     ru: 'Увеличьте шанс блока, одновременно повышая урон для каждого успешного блока.',
     fr: 'Vous augmentez temporairement vos chances de bloquer une attaque, tout en augmentant vos dégats pour chaque blocage réussi.',
-    zh: '暫時增加你的格檔機率，同時格檔成功回復生命。'
+    zh: '暫時增加你的格檔機率，同時格檔成功回復生命。',
+    tr: 'Bloklama şansını geçici süreliğine arttır, üstelik her blokladığında seni iyileştirir.'
   }
 },
 {
@@ -35,7 +38,8 @@ export default [{
     en: 'Swiftly swing your sword around you, damaging enemies within a radius.',
     ru: 'Быстро размахивайте мечом вокруг себя, нанося урон врагам в радиусе.',
     fr: 'Vous faites rapidement tournoyer votre épée autour de vous, infligeant des dégats aux ennemies dans un rayon.',
-    zh: '迅速揮動你的劍，對半徑內的敵人造成傷害。'
+    zh: '迅速揮動你的劍，對半徑內的敵人造成傷害。',
+    tr: 'Kılıcını çevik bi şekilde etrafonda çevir, belli bölgedeki düşmanlara hasar verir.'
   }
 },
 {
@@ -45,7 +49,8 @@ export default [{
     en: 'Fires a missile of frost towards your enemy. Reduces the cooldown of Icicle Orb by 0.5 seconds. Freezes targets for up to 5 stacks, at which they will be stunned and take 50% increased damage. Gains one instant cast every 7 seconds.',
     ru: 'Стреляет ракетой мороза в сторону врага. Уменьшает время перезагрузки Icicle Orb на 0,5 секунды. Замораживает цели до 5 стопок, при которых они будут оглушены и получат 50% увеличенного урона.Получает одно мгновенное заклинание каждые 7 секунд.',
     fr: 'Tire un projectile de glace vers votre ennemi. Réduit le temps de recharge d\'Icicle Orb de 0.5 secondes. Gèle les cibles jusqu\'à 5 charges, au cours desquelles elles seront étourdies et subiront 50% de dégats supplémentaires. Gagne un lancement instantané toutes les 7 secondes.',
-    zh: '向敵人發射冰彈。每次施法讓Icicle Orb減少0.5秒時間。對同一目標，疊加5次冰彈造成暈眩並增加50%傷害。每7秒獲得一次瞬間施法。'
+    zh: '向敵人發射冰彈。每次施法讓Icicle Orb減少0.5秒時間。對同一目標，疊加5次冰彈造成暈眩並增加50%傷害。每7秒獲得一次瞬間施法。',
+    tr: 'Düşmanına bir misil ateşler. Icicle orb\'un bekleme sürecisini 0,5 saniye azaltır. Düşmanı 5 yükte dondurur, onları sersemleterek fazladan %50 hasar almalarını sağlar. 7 saniyede bir anında kullanım yükü birikir.'
   }
 },
 {
@@ -55,7 +60,8 @@ export default [{
     en: 'Automatically attack your enemy at a distance.',
     ru: 'Автоматически атакуйте врага на расстоянии.',
     fr: 'Vous attaquez automatiquement votre ennemi à distance.',
-    zh: '自動遠距離攻擊你的敵人。'
+    zh: '自動遠距離攻擊你的敵人。',
+    tr: 'Menzilindeki bir düşmana otomatik olarak saldırır.'
   }
 },
 {
@@ -65,7 +71,8 @@ export default [{
     en: 'Heal a friendly target. Amount is increased for each stack of Revitalize.',
     ru: 'Исцелить дружелюбную цель. Количество увеличивается за каждую стопку Revtialize.',
     fr: 'Vous soignez une cible alliée. La quantité de soin est augmentée pour chaque charge de Revitalize.',
-    zh: '治療單一友方目標。每一層Revitalize增加治療量。'
+    zh: '治療單一友方目標。每一層Revitalize增加治療量。',
+    tr: 'Dost bi hedefi iyileştir. Miktar Revitalize\'nin yük miktarina göre artar.'
   }
 },
 {
@@ -75,7 +82,8 @@ export default [{
     en: 'Heal a friendly target over a short duration, stacking up to 3 times while also increasing the power of your Mend.',
     ru: 'Исцелить дружелюбную цель в течение короткого времени, укладываясь до 3 раз, при этом увеличивая силу Mend.',
     fr: 'Soigne une cible alliée pendant une courte durée, cumulable jusqu\'à 3 fois, tout en augmentant la puissance du Mend.',
-    zh: '在短時間內治療單一友方目標，最多可疊加3次，同時提高Mend治療量。'
+    zh: '在短時間內治療單一友方目標，最多可疊加3次，同時提高Mend治療量。',
+    tr: 'Dost bi hedefi kısa süreliğine iyileştir, 3 kere kadar yüklenirken ayrıca Mend\'in gücünü arttırır.'
   }
 },
 {
@@ -85,7 +93,8 @@ export default [{
     en: 'You inherited special abilities through your ancestry and family traditions, granting you extra benefits from certain stats.',
     ru: 'Вы унаследовали особые способности благодаря своим предкам и семейным традициям, предоставляя вам дополнительные преимущества от определенных характеристик.',
     fr: 'Vous avez hérité de capacités spéciales grâce à vos ancêtres et à vos traditions familiales, vous accordant des avantages supplémentaires sur certaines statistiques.',
-    zh: '你繼承了祖先傳下來的特殊能力，授予你額外的屬性加成。'
+    zh: '你繼承了祖先傳下來的特殊能力，授予你額外的屬性加成。',
+    tr: 'Özel yeteneklerin soy ve aile törelerinden miras kaldı, bunlar sana garanti istatistik verir.'
   }
 },
 {
@@ -95,7 +104,8 @@ export default [{
     en: 'A carefully aimed, high damage shot. Increases the damage of your next Swift Shots and allows them to be cast instantly.',
     ru: 'Тщательно прицельный выстрел с высоким уроном. Увеличивает урон от следующих выстрелов Swift и позволяет их мгновенно выстрелить.',
     fr: 'Un tir soigneusement visé, aux dégats élevés. Augmente les dégats de vos prochains Swift Shots et leur permet d\'être tirés instantanément.',
-    zh: '專心瞄準，高傷害射擊。增加你下次 Swift Shots 的傷害且可以立即施放。'
+    zh: '專心瞄準，高傷害射擊。增加你下次 Swift Shots 的傷害且可以立即施放。',
+    tr: 'Dikkatlice nişan alınmış, yüksek hasarlı atış. Sonraki Swift Shot atışlarının hasarını arttırır ve anında gerçekleşmelerini sağlar.'
   }
 },
 {
@@ -105,7 +115,8 @@ export default [{
     en: 'Your Precise Shots will jump to additional targets while active.',
     ru: 'Ваши Precise Shhots будут перепрыгивать на дополнительные цели, пока это заклинание активно.',
     fr: 'Vos Precise Shots sauteront sur des cibles supplémentaires tant que ce sort est actif.',
-    zh: '你的Precise Shots會彈射至其他目標。'
+    zh: '你的Precise Shots會彈射至其他目標。',
+    tr: 'Precise Shot atışların aktif olduğunda fazladan olarak hedeflerden sekecek.'
   }
 },
 {
@@ -115,7 +126,8 @@ export default [{
     en: 'Instantly recovers MP and increases your damage temporarily.',
     ru: 'Мгновенно восстанавливает MP и временно увеличивает урон.',
     fr: 'Vous rend instantanément des MP et augmente temporairement vos dégats.',
-    zh: '立即恢復MP並暫時增加你的傷害。'
+    zh: '立即恢復MP並暫時增加你的傷害。',
+    tr: 'Anında MP yeniler ve hasarını geçici olarak arttırır.'
   }
 },
 {
