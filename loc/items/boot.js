@@ -12,7 +12,8 @@ export default [
       it: 'Questa calzatura è concepita principalmente per il comfort anziché per la corsa.',
       nl: 'Deze schoenen zijn vooral gemaakt voor comfort in plaats van rennen.',
       ro: 'Acest tip de încățăminte a fost mai degrabă creată pentru confort decât pentru alergare.',
-      zh: '這種鞋類主要是為了穿著舒適而非跑步。'
+      zh: '這種鞋類主要是為了穿著舒適而非跑步。',
+      tr: 'Bu ayakkabı koşmadan çok rahatlığa önem verecek şekilde yapılmış.'
     }
   },
 
@@ -29,7 +30,8 @@ export default [
       it: 'Questi poggiapiedi sono avvolti in un materiale di fortuna per aumentare la stabilità della corsa.',
       nl: 'Deze schoenen zijn verpakt in een handgemaakt materiaal om stabiliteit tijdens het rennen te verhogen.',
       ro: 'Acești tălpici sunt împachetați într-un material improvizat pentru a crește stabilitatea la alergare.',
-      zh: '這些腳墊混合了應急材料以提升跑步穩定性。'
+      zh: '這些腳墊混合了應急材料以提升跑步穩定性。',
+      tr: 'Bu ayak pedleri koşu istikrarını arttırmak için geçici malzemeler ile kaplanmış.'
     }
   },
 
@@ -46,7 +48,8 @@ export default [
       it: 'Le scarpe in pelle sono create con pregevole fattura per una durata prolungata in battaglia.',
       nl: 'Leren schoenen zijn gemaakt met een fijne vakmanschap voor gemiddelde gevecht uithouding.',
       ro: 'Acești pantofi din piele sunt creați cu măiestrie pentru o durabilitate moderată în luptă.',
-      zh: '皮革鞋子是由精細的手工藝製作而成以提升耐久度。'
+      zh: '皮革鞋子是由精細的手工藝製作而成以提升耐久度。',
+      tr: 'Deri ayakkabılar, savaşa orta düzeyde dayanabilmesi için ince işçilikle üretilmiş.'
     }
   },
 
@@ -63,7 +66,8 @@ export default [
       it: 'Le ossa mostruose utilizzate nella creazione di calzature come questa sembrano aumentare la velocità di movimento, ma non è noto se il miglioramento sia attraverso la magia o la leggerezza del materiale.',
       nl: 'De monsterbotten die gebruikt waren in het maken van deze schoenen, zoals deze, blijken de snelheid te verbeteren, maar of de verbetering door magie komt of het gewicht van het materiaal is onbekend.',
       ro: 'Oasele de monstru folosite la crearea acestei încălțăminte par să sporească viteza de deplasare, dar fie că această intensificare a fost făcută prin magie sau prin lejeritatea materialului nu se știe.',
-      zh: '這個鞋子裡所使用的怪獸骨頭似乎能夠提升移動速度，但是這股魔法是從哪裡來的則不得而知。'
+      zh: '這個鞋子裡所使用的怪獸骨頭似乎能夠提升移動速度，但是這股魔法是從哪裡來的則不得而知。',
+      tr: '
     }
   },
 
